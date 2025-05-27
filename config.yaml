@@ -1,0 +1,7 @@
+port:
+cors_origin:
+cache_dir:
+socks_proxy_url:
+cdn:
+  - name: jsdelivr
+    url: https://cdn.jsdelivr.net
